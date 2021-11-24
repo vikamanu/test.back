@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": 153514053,
+    "url": "levinmk23",
+    "bio": null,
+    "avatar": "https:\/\/imgur.com\/user\/levinmk23\/avatar?maxwidth=290",
+    "avatar_name": "default\/L",
+    "cover": "https:\/\/imgur.com\/user\/levinmk23\/cover?maxwidth=2560",
+    "cover_name": "default\/1-space",
+    "reputation": -1,
+    "reputation_name": "Neutral",
+    "created": 1629291233,
+    "pro_expiration": false,
+    "user_follow": {
+      "status": false
+    },
+    "is_blocked": false
+  },
+  "success": true,
+  "status": 200
+}
